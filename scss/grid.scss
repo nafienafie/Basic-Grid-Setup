@@ -54,7 +54,7 @@ $font-size-interval:($max-font-size - $min-font-size) / $num-breakpoints ;
 
 @mixin build-grids($container_width, $i_breakpoint) {
 	@if $i == $length-breakpoints {
-		$container-width: $container-width - 20;
+		$container-width: $container-width - 20;  
 	}	
 	@else  {  
 		$container-width: $container-width - 50;
