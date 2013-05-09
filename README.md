@@ -1,4 +1,4 @@
 Basic-Grid-Setup
 ================
 
-Our SCSS grid starter.
+Our customizable SCSS grid starter.
