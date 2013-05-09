@@ -1,23 +1,50 @@
-/*
-	Customized scss based grid, by Scribble Tone
-	
-	Based on 960 grid system structure http://960.gs/ 
-*/
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* Customized scss based grid, by Scribble Tone
+Based on 960 grid system structure http://960.gs/ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
 
 
-/* Basic Settings --------*/
 
-$breakpoints: (1400, 1200, 1000, 750, 600, 400); /* Add media query breakpoints and new grid calculations at each of these sizes. Values must be highest to lowest.  */
-$columns: 12; /* number of columns */
-$gutter: 20; /* total space between each column in px*/
-$prefix: '.grid_'; /* prefix for class to call your grid. end with underscore Example output: .grid_6  */
-$push: true; /* Push styles on/off. Accepts true/false. Example output: .push_6 */
-$pull: false; /* Pull styles on/off. Accepts true/false. Example output: .pull_6 */
-$max-font-size: 109; /* Scales body font-size percentage max. If you want no change, set to 100 */
-$min-font-size: 80; /* Scales body font-size percentage min. If you want no change, set to 100 */
+/* ---------------------------------- */
+/* Customization Settings ------------*/
+/* ---------------------------------- */
 
 
+$breakpoints: (1400, 1200, 1000, 750, 600, 400);
+/* Add media query breakpoints and new grid calculations at each of these sizes. Values must be highest to lowest.  */
+ 
+$columns: 12; 
+/* number of columns */
+
+$gutter: 20; 
+/* total space between each column in px*/
+
+$prefix: '.grid_'; 
+/* prefix for class to call your grid. end with underscore Example output: .grid_6  */
+
+$push: true; 
+/* Push styles on/off. Accepts true/false. Example output: .push_6 */
+
+$pull: false; 
+/* Pull styles on/off. Accepts true/false. Example output: .pull_6 */
+
+$max-font-size: 109; 
+/* Scales body font-size percentage max. If you want no change, set to 100 */
+
+$min-font-size: 80; 
+/* Scales body font-size percentage min. If you want no change, set to 100 */
+
+
+
+/* -------------------------- */
 /* End Customization Settings */
+/* -------------------------- */
+
 
 
 $num-breakpoints: length($breakpoints);
@@ -45,12 +72,11 @@ $font-size-interval:($max-font-size - $min-font-size) / $num-breakpoints ;
 	
 	$margin: $gutter / 2;
 	
-	
+	/* General styles to all columns --------*/
 	$grid-setup-classes: '' ;
 	@for $i from 1 through $columns {
 	  $grid-setup-classes: $grid-setup-classes + $prefix + $i + ', ' ;
 	}
-	
 	
 	#{$grid-setup-classes} {display:block; float: left; position: relative; margin-left: $margin + px; margin-right: $margin + px;
 		img {width:100%; height: auto;}

@@ -1,9 +1,15 @@
-/*
-	Customized scss based grid, by Scribble Tone
-	
-	Based on 960 grid system structure http://960.gs/ 
-*/
-/* Basic Settings --------*/
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* Customized scss based grid, by Scribble Tone
+Based on 960 grid system structure http://960.gs/ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* ------------------------------------------ */
+/* ---------------------------------- */
+/* Customization Settings ------------*/
+/* ---------------------------------- */
 /* Add media query breakpoints and new grid calculations at each of these sizes. Values must be highest to lowest.  */
 /* number of columns */
 /* total space between each column in px*/
@@ -12,7 +18,9 @@
 /* Pull styles on/off. Accepts true/false. Example output: .pull_6 */
 /* Scales body font-size percentage max. If you want no change, set to 100 */
 /* Scales body font-size percentage min. If you want no change, set to 100 */
+/* -------------------------- */
 /* End Customization Settings */
+/* -------------------------- */
 /* end main mixin */
 /* iterate over mixin for each breakpoint --------*/
 /*first cycle */
@@ -26,6 +34,7 @@ body {
   margin-right: auto;
   width: 1350px; }
 
+/* General styles to all columns --------*/
 .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
   display: block;
   float: left;
@@ -137,6 +146,7 @@ body {
     margin-right: auto;
     width: 1150px; }
 
+  /* General styles to all columns --------*/
   .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
@@ -247,6 +257,7 @@ body {
     margin-right: auto;
     width: 950px; }
 
+  /* General styles to all columns --------*/
   .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
@@ -357,6 +368,7 @@ body {
     margin-right: auto;
     width: 700px; }
 
+  /* General styles to all columns --------*/
   .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
@@ -467,6 +479,7 @@ body {
     margin-right: auto;
     width: 550px; }
 
+  /* General styles to all columns --------*/
   .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
@@ -576,6 +589,7 @@ body {
     margin-right: auto;
     width: 380px; }
 
+  /* General styles to all columns --------*/
   .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
