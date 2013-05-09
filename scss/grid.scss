@@ -44,20 +44,24 @@ $font-size-interval:($max-font-size - $min-font-size) / $num-breakpoints ;
 	
 	
 	$margin: $gutter / 2;
-	.grid-setup {display:block; float: left; position: relative; margin-left: $margin + px; margin-right: $margin + px;
-		img {width:100%; height: auto;
-	}
+	
+	
+	$grid-setup-classes: '' ;
+	@for $i from 1 through $columns {
+	  $grid-setup-classes: $grid-setup-classes + $prefix + $i + ', ' ;
 	}
 	
+	
+	#{$grid-setup-classes} {display:block; float: left; position: relative; margin-left: $margin + px; margin-right: $margin + px;
+		img {width:100%; height: auto;}
+	}
 	
 	
 	/* Grid Widths --------*/
 	$base-column: $container-width / $columns;
 	
 	@for $i from 1 through $columns {
-		#{$prefix +$i} {display:block; float: left; position: relative; margin-left: $margin + px; margin-right: $margin + px;
-			img {width:100%; height: auto;} 
-		}
+		
 		#{$prefix +$i} {width: $base-column * $i - $gutter + px}  
 	} 
 	

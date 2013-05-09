@@ -26,169 +26,49 @@ body {
   margin-right: auto;
   width: 1350px; }
 
-.grid-setup {
+.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
   display: block;
   float: left;
   position: relative;
   margin-left: 10px;
   margin-right: 10px; }
-  .grid-setup img {
+  .grid_1 img, .grid_2 img, .grid_3 img, .grid_4 img, .grid_5 img, .grid_6 img, .grid_7 img, .grid_8 img, .grid_9 img, .grid_10 img, .grid_11 img, .grid_12 img {
     width: 100%;
     height: auto; }
 
 /* Grid Widths --------*/
 .grid_1 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_1 img {
-    width: 100%;
-    height: auto; }
-
-.grid_1 {
   width: 92.5px; }
-
-.grid_2 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_2 img {
-    width: 100%;
-    height: auto; }
 
 .grid_2 {
   width: 205px; }
 
 .grid_3 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_3 img {
-    width: 100%;
-    height: auto; }
-
-.grid_3 {
   width: 317.5px; }
-
-.grid_4 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_4 img {
-    width: 100%;
-    height: auto; }
 
 .grid_4 {
   width: 430px; }
 
 .grid_5 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_5 img {
-    width: 100%;
-    height: auto; }
-
-.grid_5 {
   width: 542.5px; }
-
-.grid_6 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_6 img {
-    width: 100%;
-    height: auto; }
 
 .grid_6 {
   width: 655px; }
 
 .grid_7 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_7 img {
-    width: 100%;
-    height: auto; }
-
-.grid_7 {
   width: 767.5px; }
-
-.grid_8 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_8 img {
-    width: 100%;
-    height: auto; }
 
 .grid_8 {
   width: 880px; }
 
 .grid_9 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_9 img {
-    width: 100%;
-    height: auto; }
-
-.grid_9 {
   width: 992.5px; }
-
-.grid_10 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_10 img {
-    width: 100%;
-    height: auto; }
 
 .grid_10 {
   width: 1105px; }
 
 .grid_11 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_11 img {
-    width: 100%;
-    height: auto; }
-
-.grid_11 {
   width: 1217.5px; }
-
-.grid_12 {
-  display: block;
-  float: left;
-  position: relative;
-  margin-left: 10px;
-  margin-right: 10px; }
-  .grid_12 img {
-    width: 100%;
-    height: auto; }
 
 .grid_12 {
   width: 1330px; }
@@ -257,169 +137,49 @@ body {
     margin-right: auto;
     width: 1150px; }
 
-  .grid-setup {
+  .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
     position: relative;
     margin-left: 10px;
     margin-right: 10px; }
-    .grid-setup img {
+    .grid_1 img, .grid_2 img, .grid_3 img, .grid_4 img, .grid_5 img, .grid_6 img, .grid_7 img, .grid_8 img, .grid_9 img, .grid_10 img, .grid_11 img, .grid_12 img {
       width: 100%;
       height: auto; }
 
   /* Grid Widths --------*/
   .grid_1 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_1 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_1 {
     width: 75.83333px; }
-
-  .grid_2 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_2 img {
-      width: 100%;
-      height: auto; }
 
   .grid_2 {
     width: 171.66667px; }
 
   .grid_3 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_3 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_3 {
     width: 267.5px; }
-
-  .grid_4 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_4 img {
-      width: 100%;
-      height: auto; }
 
   .grid_4 {
     width: 363.33333px; }
 
   .grid_5 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_5 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_5 {
     width: 459.16667px; }
-
-  .grid_6 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_6 img {
-      width: 100%;
-      height: auto; }
 
   .grid_6 {
     width: 555px; }
 
   .grid_7 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_7 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_7 {
     width: 650.83333px; }
-
-  .grid_8 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_8 img {
-      width: 100%;
-      height: auto; }
 
   .grid_8 {
     width: 746.66667px; }
 
   .grid_9 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_9 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_9 {
     width: 842.5px; }
-
-  .grid_10 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_10 img {
-      width: 100%;
-      height: auto; }
 
   .grid_10 {
     width: 938.33333px; }
 
   .grid_11 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_11 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_11 {
     width: 1034.16667px; }
-
-  .grid_12 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_12 img {
-      width: 100%;
-      height: auto; }
 
   .grid_12 {
     width: 1130px; }
@@ -487,169 +247,49 @@ body {
     margin-right: auto;
     width: 950px; }
 
-  .grid-setup {
+  .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
     position: relative;
     margin-left: 10px;
     margin-right: 10px; }
-    .grid-setup img {
+    .grid_1 img, .grid_2 img, .grid_3 img, .grid_4 img, .grid_5 img, .grid_6 img, .grid_7 img, .grid_8 img, .grid_9 img, .grid_10 img, .grid_11 img, .grid_12 img {
       width: 100%;
       height: auto; }
 
   /* Grid Widths --------*/
   .grid_1 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_1 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_1 {
     width: 59.16667px; }
-
-  .grid_2 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_2 img {
-      width: 100%;
-      height: auto; }
 
   .grid_2 {
     width: 138.33333px; }
 
   .grid_3 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_3 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_3 {
     width: 217.5px; }
-
-  .grid_4 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_4 img {
-      width: 100%;
-      height: auto; }
 
   .grid_4 {
     width: 296.66667px; }
 
   .grid_5 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_5 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_5 {
     width: 375.83333px; }
-
-  .grid_6 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_6 img {
-      width: 100%;
-      height: auto; }
 
   .grid_6 {
     width: 455px; }
 
   .grid_7 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_7 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_7 {
     width: 534.16667px; }
-
-  .grid_8 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_8 img {
-      width: 100%;
-      height: auto; }
 
   .grid_8 {
     width: 613.33333px; }
 
   .grid_9 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_9 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_9 {
     width: 692.5px; }
-
-  .grid_10 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_10 img {
-      width: 100%;
-      height: auto; }
 
   .grid_10 {
     width: 771.66667px; }
 
   .grid_11 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_11 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_11 {
     width: 850.83333px; }
-
-  .grid_12 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_12 img {
-      width: 100%;
-      height: auto; }
 
   .grid_12 {
     width: 930px; }
@@ -717,169 +357,49 @@ body {
     margin-right: auto;
     width: 700px; }
 
-  .grid-setup {
+  .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
     position: relative;
     margin-left: 10px;
     margin-right: 10px; }
-    .grid-setup img {
+    .grid_1 img, .grid_2 img, .grid_3 img, .grid_4 img, .grid_5 img, .grid_6 img, .grid_7 img, .grid_8 img, .grid_9 img, .grid_10 img, .grid_11 img, .grid_12 img {
       width: 100%;
       height: auto; }
 
   /* Grid Widths --------*/
   .grid_1 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_1 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_1 {
     width: 38.33333px; }
-
-  .grid_2 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_2 img {
-      width: 100%;
-      height: auto; }
 
   .grid_2 {
     width: 96.66667px; }
 
   .grid_3 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_3 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_3 {
     width: 155px; }
-
-  .grid_4 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_4 img {
-      width: 100%;
-      height: auto; }
 
   .grid_4 {
     width: 213.33333px; }
 
   .grid_5 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_5 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_5 {
     width: 271.66667px; }
-
-  .grid_6 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_6 img {
-      width: 100%;
-      height: auto; }
 
   .grid_6 {
     width: 330px; }
 
   .grid_7 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_7 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_7 {
     width: 388.33333px; }
-
-  .grid_8 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_8 img {
-      width: 100%;
-      height: auto; }
 
   .grid_8 {
     width: 446.66667px; }
 
   .grid_9 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_9 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_9 {
     width: 505px; }
-
-  .grid_10 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_10 img {
-      width: 100%;
-      height: auto; }
 
   .grid_10 {
     width: 563.33333px; }
 
   .grid_11 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_11 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_11 {
     width: 621.66667px; }
-
-  .grid_12 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_12 img {
-      width: 100%;
-      height: auto; }
 
   .grid_12 {
     width: 680px; }
@@ -947,169 +467,49 @@ body {
     margin-right: auto;
     width: 550px; }
 
-  .grid-setup {
+  .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
     position: relative;
     margin-left: 10px;
     margin-right: 10px; }
-    .grid-setup img {
+    .grid_1 img, .grid_2 img, .grid_3 img, .grid_4 img, .grid_5 img, .grid_6 img, .grid_7 img, .grid_8 img, .grid_9 img, .grid_10 img, .grid_11 img, .grid_12 img {
       width: 100%;
       height: auto; }
 
   /* Grid Widths --------*/
   .grid_1 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_1 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_1 {
     width: 25.83333px; }
-
-  .grid_2 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_2 img {
-      width: 100%;
-      height: auto; }
 
   .grid_2 {
     width: 71.66667px; }
 
   .grid_3 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_3 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_3 {
     width: 117.5px; }
-
-  .grid_4 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_4 img {
-      width: 100%;
-      height: auto; }
 
   .grid_4 {
     width: 163.33333px; }
 
   .grid_5 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_5 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_5 {
     width: 209.16667px; }
-
-  .grid_6 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_6 img {
-      width: 100%;
-      height: auto; }
 
   .grid_6 {
     width: 255px; }
 
   .grid_7 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_7 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_7 {
     width: 300.83333px; }
-
-  .grid_8 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_8 img {
-      width: 100%;
-      height: auto; }
 
   .grid_8 {
     width: 346.66667px; }
 
   .grid_9 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_9 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_9 {
     width: 392.5px; }
-
-  .grid_10 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_10 img {
-      width: 100%;
-      height: auto; }
 
   .grid_10 {
     width: 438.33333px; }
 
   .grid_11 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_11 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_11 {
     width: 484.16667px; }
-
-  .grid_12 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_12 img {
-      width: 100%;
-      height: auto; }
 
   .grid_12 {
     width: 530px; }
@@ -1176,169 +576,49 @@ body {
     margin-right: auto;
     width: 380px; }
 
-  .grid-setup {
+  .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12 {
     display: block;
     float: left;
     position: relative;
     margin-left: 10px;
     margin-right: 10px; }
-    .grid-setup img {
+    .grid_1 img, .grid_2 img, .grid_3 img, .grid_4 img, .grid_5 img, .grid_6 img, .grid_7 img, .grid_8 img, .grid_9 img, .grid_10 img, .grid_11 img, .grid_12 img {
       width: 100%;
       height: auto; }
 
   /* Grid Widths --------*/
   .grid_1 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_1 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_1 {
     width: 11.66667px; }
-
-  .grid_2 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_2 img {
-      width: 100%;
-      height: auto; }
 
   .grid_2 {
     width: 43.33333px; }
 
   .grid_3 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_3 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_3 {
     width: 75px; }
-
-  .grid_4 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_4 img {
-      width: 100%;
-      height: auto; }
 
   .grid_4 {
     width: 106.66667px; }
 
   .grid_5 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_5 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_5 {
     width: 138.33333px; }
-
-  .grid_6 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_6 img {
-      width: 100%;
-      height: auto; }
 
   .grid_6 {
     width: 170px; }
 
   .grid_7 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_7 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_7 {
     width: 201.66667px; }
-
-  .grid_8 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_8 img {
-      width: 100%;
-      height: auto; }
 
   .grid_8 {
     width: 233.33333px; }
 
   .grid_9 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_9 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_9 {
     width: 265px; }
-
-  .grid_10 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_10 img {
-      width: 100%;
-      height: auto; }
 
   .grid_10 {
     width: 296.66667px; }
 
   .grid_11 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_11 img {
-      width: 100%;
-      height: auto; }
-
-  .grid_11 {
     width: 328.33333px; }
-
-  .grid_12 {
-    display: block;
-    float: left;
-    position: relative;
-    margin-left: 10px;
-    margin-right: 10px; }
-    .grid_12 img {
-      width: 100%;
-      height: auto; }
 
   .grid_12 {
     width: 360px; }
